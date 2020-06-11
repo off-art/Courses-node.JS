@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.14.1",
+    "uuid": "^8.1.0"
   },
   "scripts": {
     "start": "nodemon index.js"
