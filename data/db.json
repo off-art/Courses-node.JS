@@ -1,1 +1,20 @@
-[{"title":"React JS v.2","price":"22000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png","id":"79075a80-c514-402f-8f7a-f3169cd18f15"},{"title":"Angular 8","price":"12000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png","id":"997cb5ee-e25f-4173-aff7-41d3152d6b74"},{"title":"VueJS","price":"12000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/694px-Vue.js_Logo_2.svg.png","id":"ab627b79-23f0-42ef-afbe-20d14ea52a5c"}]
+[
+  {
+    "title": "React JS",
+    "price": "22000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+    "id": "79075a80-c514-402f-8f7a-f3169cd18f15"
+  },
+  {
+    "title": "Angular 8",
+    "price": "12000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+    "id": "997cb5ee-e25f-4173-aff7-41d3152d6b74"
+  },
+  {
+    "title": "VueJS",
+    "price": "12000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/694px-Vue.js_Logo_2.svg.png",
+    "id": "ab627b79-23f0-42ef-afbe-20d14ea52a5c"
+  }
+]

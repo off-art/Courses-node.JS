@@ -55,7 +55,7 @@ class Card {
     const course = card.courses[idx];
 
     if (course.count === 1) {
-      card.courses = card.courses.filter((с) => c.id !== id);
+      card.courses = card.courses.filter((c) => c.id !== id);
     } else {
       card.courses[idx].count--;
     }
